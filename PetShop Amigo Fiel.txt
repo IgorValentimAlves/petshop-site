@@ -56,18 +56,12 @@ Sábado: 9h às 13h
 
 >>Rodapé
 
- >c< 2026 - PetShop Amigo Fiel
+PetShop Amigo Fiel
 Site fictício desenvolvido para fins de estudo em HTML e CSS.
 
 
 
 
 
-TEXTO PARA USAR NO PORTFÓLIO (DESCRIÇÃO DO PROJETO)
-
-Site Institucional - PetShop Amigo Fiel
-Projeto fictício desenvolvido para prática de HTML e CSS, com foco em estruturação de páginas, 
-organização de layout e responsividade(mobile first). O site apresenta seções institucionais, 
-serviços e informações de contato.
 
 
