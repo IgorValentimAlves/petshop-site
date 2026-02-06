@@ -18,7 +18,7 @@ Trabalhamos com serviços essenciais para o dia a dia dos pets, sempre prezando 
 
 ---Banho e Tosa
 
-Higienização completa, com produtos adequados par cada tipo de pelo, garantindo limpeza, conforto e bem-estar para seu pet.
+Higienização completa, com produtos adequados para cada tipo de pelo, garantindo limpeza, conforto e bem-estar para seu pet.
 
 ---Atendimento Personalizado
 
@@ -37,7 +37,7 @@ POR QUE ESCOLHER O AMIGO FIEL?
 +Ambiente limpo e organizado
 +Profissionais dedicados
 +Carinho e respeito com os animais
-+Compromisso com o bem-estara do seu pet
++Compromisso com o bem-estar do seu pet
 
 
 >>Depoimentos
@@ -58,10 +58,3 @@ Sábado: 9h às 13h
 
 PetShop Amigo Fiel
 Site fictício desenvolvido para fins de estudo em HTML e CSS.
-
-
-
-
-
-
-
