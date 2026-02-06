@@ -1,0 +1,73 @@
+PetShop Amigo Fiel
+
+>>Cuidando do seu pet com carinho e confiança
+
+Seu pet merece atenção, cuidado e amor.
+Nop PetShop Amigo Fiel, oferecemos serviços de qualidade para garantir o bem-estar, a saúde e a felicidade do seu melhor amigo.
+
+
+>>Sobre o PetShop
+
+O PetShop Amigo Fiel é um pet shop fictício criado para fins de estudo e prática em desenvolvimento web.
+Nosso objetivo é apresentar um estabelecimento moderno, organizado e preocupado com o conforto dos animais e a satisfação de seus tutores.
+
+Trabalhamos com serviços essenciais para o dia a dia dos pets, sempre prezando pelo cuidado, higiene e atendimento de qualidade.
+
+
+>>Nossos serviços
+
+---Banho e Tosa
+
+Higienização completa, com produtos adequados par cada tipo de pelo, garantindo limpeza, conforto e bem-estar para seu pet.
+
+---Atendimento Personalizado
+
+Cada pet é único. Por isso, oferecemos um atendimento cuidadoso, respeitando as necessidades e o comportamento de cada animal.
+
+---Produtos para Pets
+
+Rações, petiscos, brinquedos e acessórios selecionados para garantir qualidade e segurança.
+
+---Orientações básicas sobre cuidados com o pet, higiene e bem-estar no dia a dia.
+
+
+
+POR QUE ESCOLHER O AMIGO FIEL?
+
++Ambiente limpo e organizado
++Profissionais dedicados
++Carinho e respeito com os animais
++Compromisso com o bem-estara do seu pet
+
+
+>>Depoimentos
+
+"Levo meu cachorro sempre para o banho e tosa e adoro o atendimento. Muito carinho com os animais." _Cliente Satisfeito
+
+"Lugar organizado e atendimento excelente." _Tutor de pet 
+
+>>Entre em contato
+
++Endereço: Rua Exemplo, 123 - Centro
++Telefone: (00)000000000
++E-mail: contato@petshopamigofiel.com
++Horário de funcionamento: 9h às 18h
+Sábado: 9h às 13h
+
+>>Rodapé
+
+ >c< 2026 - PetShop Amigo Fiel
+Site fictício desenvolvido para fins de estudo em HTML e CSS.
+
+
+
+
+
+TEXTO PARA USAR NO PORTFÓLIO (DESCRIÇÃO DO PROJETO)
+
+Site Institucional - PetShop Amigo Fiel
+Projeto fictício desenvolvido para prática de HTML e CSS, com foco em estruturação de páginas, 
+organização de layout e responsividade(mobile first). O site apresenta seções institucionais, 
+serviços e informações de contato.
+
+
