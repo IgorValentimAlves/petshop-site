@@ -73,16 +73,16 @@ nav {
 nav a {
     color: #3a240a;
     font-family: var(--font-paragrafo);
-    font-size: 1.2em;
-    margin-right: 15px;
+    font-size: 1em;
     text-decoration: none;
     font-weight: bold;
+    padding: 0px 7px;
+    text-align: center;
 }
 
 nav a:hover {
     background-color: var(--cor2);
     border-radius: 5px;
-    padding: 5px;
 }
 
 body {
